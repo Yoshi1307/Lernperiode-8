@@ -1,4 +1,4 @@
-# Lernperiode-8 Three.js
+# Lernperiode-8 Three.js/Godot
 
 ## 9.1.26
 
@@ -14,3 +14,12 @@ Arbeitspakete zu diesem Tutorial: https://www.youtube.com/watch?v=UMqNHi1GDAE
 - [ ] Tutorial zum Wurmloch nachprogrammieren und verstehen, wie es geht
 - [ ] Falls die Zeit noch reicht, das Tutorial zu Übergängen nachprogrammieren und verstehen
 - [ ] Falls es noch für mehr reicht, das Tutorial zur Implementierung der Physik nachprogrammieren und verstehen
+
+Heute wollte ich zuerst damit beginnen, das Tutorial zur Erde nachzuprogrammieren. Da in den Vorlagen zu den jeweiligen Projekten etwas anderes und viel weiter war als die im Video, und ich nicht wusste, was ich jetzt machen muss, habe ich mein Thema geändert. Ich habe bei anderen Godot gesehen und gedacht, dass ich das auch machen möchte. Also habe ich mir ein Tutorial zu Godot herausgesucht. https://www.youtube.com/watch?v=LOhfqjmasi0. Ich habe jetzt begonnen, es nachzuprogrammieren, und es macht jetzt schon mehr Spass als Three.js. Im Tutorial geht es um ein Jump & Run und ich habe bis jetzt einen Teil der Map, die Steuerung und die Hitboxen erstellt. Man kann es schon spielen, aber nachdem man von der Map fällt, ist es vorbei.
+
+## 23.1.26
+- [ ] Tutorial weiter bearbeiten
+- [ ] Respawn hinzufügen, wenn nicht im Tutorial
+- [ ] Steuerung überarbeiten
+- [ ] Eigenes Mini-Projekt ohne Tutorial beginnen
+- [ ] Ideen fürs Tutorial sammeln
