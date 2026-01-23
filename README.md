@@ -18,8 +18,10 @@ Arbeitspakete zu diesem Tutorial: https://www.youtube.com/watch?v=UMqNHi1GDAE
 Heute wollte ich zuerst damit beginnen, das Tutorial zur Erde nachzuprogrammieren. Da in den Vorlagen zu den jeweiligen Projekten etwas anderes und viel weiter war als die im Video, und ich nicht wusste, was ich jetzt machen muss, habe ich mein Thema geändert. Ich habe bei anderen Godot gesehen und gedacht, dass ich das auch machen möchte. Also habe ich mir ein Tutorial zu Godot herausgesucht. https://www.youtube.com/watch?v=LOhfqjmasi0. Ich habe jetzt begonnen, es nachzuprogrammieren, und es macht jetzt schon mehr Spass als Three.js. Im Tutorial geht es um ein Jump & Run und ich habe bis jetzt einen Teil der Map, die Steuerung und die Hitboxen erstellt. Man kann es schon spielen, aber nachdem man von der Map fällt, ist es vorbei.
 
 ## 23.1.26
-- [ ] Tutorial weiter bearbeiten
-- [ ] Respawn hinzufügen, wenn nicht im Tutorial
-- [ ] Steuerung überarbeiten
-- [ ] Eigenes Mini-Projekt ohne Tutorial beginnen
+- [X] Tutorial weiter bearbeiten
+- [X] Respawn hinzufügen, wenn nicht im Tutorial
+- [X] Steuerung überarbeiten
 - [ ] Ideen fürs Tutorial sammeln
+- [ ] Eigenes Mini-Projekt ohne Tutorial beginnen
+
+Heute habe ich mit dem Ausbau des Levels begonnen, dass man auch etwas spielen kann. Als Nächstes habe ich eine Killzone hinzugefügt, sodass, wenn man herunterfliegt, man nicht einfach unendlich herunterfällt, sondern stirbt. Daraufhin habe ich einen Respawn eingefügt, dass man nach dem Tod respawnt und nicht das Spiel neu starten muss. Danach habe ich probiert, eine zweite bewegende Plattform einzufügen, was sehr lange gedauert hat, da sich die Animationen die ganze Zeit überschnitten und ich nicht verstanden habe, wie ich es löse. Als ich das behoben hatte, fügte ich noch einen Hintergrund hinzu. Die Steuerung habe ich als Nächstes überarbeitet. Man kann jetzt mit WASD, der Leertaste und den Pfeiltasten steuern. Als Letztes habe ich einen Gegner hinzugefügt. Bei dem habe ich aber noch einen Fehler, dass man, egal wo er ist, stirbt, ohne ihn berührt zu haben, wie vorgesehen. Ich habe alles wie im Tutorial gemacht, kann meinen Fehler also nicht finden. Dass man trotzdem spielen kann, habe ich am Ende einfach seine Hitbox ausgeschaltet, dass er zwar da ist, aber man nicht an ihm sterben kann. 
