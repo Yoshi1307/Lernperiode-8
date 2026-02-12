@@ -21,7 +21,8 @@ Heute wollte ich zuerst damit beginnen, das Tutorial zur Erde nachzuprogrammiere
 - [X] Tutorial weiter bearbeiten
 - [X] Respawn hinzufügen, wenn nicht im Tutorial
 - [X] Steuerung überarbeiten
-- [ ] Ideen fürs Tutorial sammeln
 - [ ] Eigenes Mini-Projekt ohne Tutorial beginnen
+- [x] Ideen fürs Tutorial sammeln
+
 
 Heute habe ich mit dem Ausbau des Levels begonnen, dass man auch etwas spielen kann. Als Nächstes habe ich eine Killzone hinzugefügt, sodass, wenn man herunterfliegt, man nicht einfach unendlich herunterfällt, sondern stirbt. Daraufhin habe ich einen Respawn eingefügt, dass man nach dem Tod respawnt und nicht das Spiel neu starten muss. Danach habe ich probiert, eine zweite bewegende Plattform einzufügen, was sehr lange gedauert hat, da sich die Animationen die ganze Zeit überschnitten und ich nicht verstanden habe, wie ich es löse. Als ich das behoben hatte, fügte ich noch einen Hintergrund hinzu. Die Steuerung habe ich als Nächstes überarbeitet. Man kann jetzt mit WASD, der Leertaste und den Pfeiltasten steuern. Als Letztes habe ich einen Gegner hinzugefügt. Bei dem habe ich aber noch einen Fehler, dass man, egal wo er ist, stirbt, ohne ihn berührt zu haben, wie vorgesehen. Ich habe alles wie im Tutorial gemacht, kann meinen Fehler also nicht finden. Dass man trotzdem spielen kann, habe ich am Ende einfach seine Hitbox ausgeschaltet, dass er zwar da ist, aber man nicht an ihm sterben kann. 
